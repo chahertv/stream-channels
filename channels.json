@@ -1,0 +1,13 @@
+{
+  "title": "chahertv",
+  "channels": [
+    {"id": 1, "name": "Al Jazeera Arabic", "name_ar": "الجزيرة العربية", "url": "https://live-hls-web-aja.getaj.net/AJA/index.m3u8", "active": true},
+    {"id": 2, "name": "Al Arabiya", "name_ar": "العربية", "url": "https://live.alarabiya.net/alarabiyaleg/smil:alarabiya.smil/playlist.m3u8", "active": true},
+    {"id": 3, "name": "MBC 1", "name_ar": "MBC 1", "url": "https://shls-live-ak.akamaized.net/hls/live/2016658/MBC1_SAT/master.m3u8", "active": true},
+    {"id": 4, "name": "MBC Drama", "name_ar": "MBC دراما", "url": "https://shls-live-ak.akamaized.net/hls/live/2016659/MBCDRAMA_SAT/master.m3u8", "active": true},
+    {"id": 5, "name": "beIN Sports 1", "name_ar": "بي ان سبورتس 1", "url": "https://b-cdn.beinsports.com/live/bein-sports-1.m3u8", "active": true},
+    {"id": 6, "name": "France 24 Arabic", "name_ar": "فرانس 24 عربي", "url": "https://static.france24.com/live/F24_AR_LO_HLS/live_web.m3u8", "active": true},
+    {"id": 7, "name": "RT Arabic", "name_ar": "RT عربي", "url": "https://rt-arab.rttv.com/live/rtarabic/playlist.m3u8", "active": true},
+    {"id": 8, "name": "Sky News Arabia", "name_ar": "سكاي نيوز عربية", "url": "https://mngglobal-i.akamaihd.net/hls/live/265783/skynewsarabia/master.m3u8", "active": true}
+  ]
+}
